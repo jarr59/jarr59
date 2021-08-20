@@ -7,11 +7,11 @@
  
 # *Skill*
 <div style="display: inline_block; border-style:none"> 
-  <img align="center" alt="C-sharp" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="dotnetcore" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="C-sharp" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="dotnetcore" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//dotnetcore/dotnetcore-original.svg">
   <img align="center" alt="mysql" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="sqlserver" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="react" height="60" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="react" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
   <img align="right" alt="avatar" height="300" width="300" src="https://media.discordapp.net/attachments/844088691173228555/878288587668484156/avatar.PNG">
 </div><hr>
  
